@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Prajwal</h1>
+<h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-prajwal&label=Profile%20views&color=0e75b6&style=flat" alt="j-prajwal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j-prajwal" alt="j-prajwal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/prajwal_jais" target="blank"><img src="https://img.shields.io/twitter/follow/prajwal_jais?logo=twitter&style=for-the-badge" alt="prajwal_jais" /></a> </p>
 
